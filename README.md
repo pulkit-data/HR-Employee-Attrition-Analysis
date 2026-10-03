@@ -29,7 +29,8 @@ This project explores why employees leave the company and what factors contribut
 - Power BI
 
 ## Dashboard
-![HR Attrition Dashboard](dashboard.png)
+<img width="4150" height="2400" alt="HR Employee attrition Dashboard_page-0001" src="https://github.com/user-attachments/assets/80a45493-df42-4144-bd1c-d54ede9e3ffe" />
+
 
 ## Dataset
 [IBM HR Analytics Employee Attrition Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
